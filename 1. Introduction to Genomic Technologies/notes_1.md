@@ -1,0 +1,24 @@
+- Genomics
+- Next-Generation Sequencing (`NGS`)
+- DNA
+- RNA
+- Genome analysis
+- Computational genomics
+- Molecular Biology
+- DNA sequence
+- Central dogma
+- Transcription
+- Translation
+- DNA structure and modifications
+- Next generation sequencing
+- Computational biology
+- Types of genomics analysis questions
+- The central dogma of inference
+- Testing
+- Multiple testing
+- The central dogma of prediction
+- Types of variation in genomics
+- Experimental design
+- Confounding
+- Correlation and causation
+- Researcher degrees of freedom
