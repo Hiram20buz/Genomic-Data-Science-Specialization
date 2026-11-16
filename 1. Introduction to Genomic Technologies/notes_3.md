@@ -1,0 +1,14 @@
+- Mutation
+- Error in replication
+- Cell division
+- Central Dogma( DNA -> RNA ->Protein)
+- Transcription
+- Translation
+- Aminoacids
+- Protein
+- Nucleoid types
+- Human Genome Project
+- what are the mutations in this cell versus other cells from the same person?
+- sequencing technology
+- Solexa
+- National Center for Biotechnology Information or NCBI
